@@ -19,8 +19,8 @@ locale                   : "ko" # 타깃국가 설정
 title                    : "Haerang" # 블로그제목
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Haerang Cho"
+description              : "Life is full of possibilities"
 url                      : "https://haerang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "haerang/haerang.github.io"
