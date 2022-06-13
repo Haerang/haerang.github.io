@@ -42,6 +42,8 @@ $type-size-5: 1em !default; // ~16px
 $type-size-6: 0.75em !default; // ~12px
 $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
+$type-size-9: 0.57em !default
+$type-size-10: 0.5em !default
 
 /* headline scale */
 $h-size-1: 1.563em !default; // ~25.008px
@@ -155,9 +157,14 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+//side-bar layout
+$right-sidebar-width-narrow: 150px !default;
+$right-sidebar-width: 200px !default;
+$right-sidebar-width-wide: 250px !default;
+
+//$right-sidebar-width-narrow: 200px !default;
+//$right-sidebar-width: 300px !default;
+//$right-sidebar-width-wide: 400px !default;
 
 /*
    Other

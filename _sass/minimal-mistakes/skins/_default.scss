@@ -3,3 +3,21 @@
    ========================================================================== */
 
 // Intentionally left blank
+/* Colors */
+$text-color: #000 !default;
+$muted-text-color: $text-color !default;
+$primary-color: #424874 !default;           // 이 부분이 강조색이다. 우상단 메뉴, 인용문 등의 강조색.
+// $primary-color: #ff0000 !default;
+$border-color: mix(#fff, $text-color, 75%) !default;
+$footer-background-color: #f4eeff !default;
+$link-color: #424874 !default;              // 이 부분이 링크의 색깔을 결정한다.
+// $link-color: #ff0000 !default;
+//$masthead-link-color: #4c3575 !default;
+$masthead-link-color: $text-color !default;
+//$masthead-link-color-hover: #7858a6 !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__title{
+  color: $link-color;
+}

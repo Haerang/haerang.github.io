@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
-title                    : "Dev Haerang"
+locale                   : "en-US"
+title                    : "Haerang's DevLog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "since 2022"
 name                     : "Haerang Cho"
 description              : #"An amazing website."
 url                      : "https://haerang.github.io"
